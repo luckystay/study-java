@@ -1,2 +1,1 @@
-# study-java
-java勉強用
+# Hello, Pull Request
